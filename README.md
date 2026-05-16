@@ -16,7 +16,7 @@ Outputs `perihelion_drift_v2.wav` (~30 seconds to render on a modern laptop).
 
 ## Listen
 
-[perihelion_drift_v2.wav](https://github.com/user-attachments/files/27840092/perihelion_drift_v2.wav)
+https://github.com/user-attachments/assets/a0892319-41ac-48e2-8252-a0db55d50435
 
 ## Backstory
 
